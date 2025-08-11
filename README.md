@@ -145,7 +145,7 @@ I’m currently exploring the intersection of machine learning, security, and re
 with a dream of building impactful, remote-friendly solutions.
 
 * 🔗 GitHub: [@ivrnca](https://github.com/ivrnca)
-* 🔗 LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourusername)
+* 🔗 LinkedIn: [Griventh Griffith Agustin](www.linkedin.com/in/griventh-griffith-agustin)
 
 ---
 
