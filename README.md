@@ -1,7 +1,7 @@
 # 🕵️‍♀️ Fraud Detection API with FastAPI
 
 An end-to-end machine learning API that detects fraudulent credit card transactions.  
-Built with ❤️ using Python, FastAPI, and a Random Forest classifier.
+Built using Python, FastAPI, and a Random Forest classifier.
 
 ---
 
